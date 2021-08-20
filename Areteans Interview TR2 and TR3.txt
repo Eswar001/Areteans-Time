@@ -1,0 +1,45 @@
+#Areteans Interview.
+
+TR2 (30 Min +)
+
+1. Java Basics...?
+
+2. How is PEGA releated to Java...?
+
+3. About My Use Case completely in depth configurations...?
+
+4. Flows , Advanced Shapes, Process Designs..?
+
+5. Primary and alternative Stages...?
+
+6. Clipboard Pages...?
+
+7. Data Pages...?
+
+8. Tracer Tool...?
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TR-3 (30Min)
+
+1. Tell me About Your Self...?
+
+2. Why PEGA..? (Stressed More)
+
+3. BPM and CRM...? (Stressed More)
+
+4. ECS..?
+
+5. My ECE Background and Specialization based Questions...?
+
+6. Situtation Layer Cake..?
+
+7. Clipboard and Table Names..?
+
+8. WorkList and WorkQueue..?
+
+9. Casual Q/A...?
+
+End...:)
+
+Thanku so Much RK

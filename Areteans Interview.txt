@@ -1,0 +1,35 @@
+#Areteans Interview Experience.
+
+TR-1 Questions (45 Min +)
+
+1. Tell me about Yourself..?
+
+2. Could you please explain about your use Case..?
+
+3. What is Data Transfrom & Declare Expressions...?
+    --Forward and Backward Chaining
+
+4. Best Pratices...?
+
+5. What is Data Pages..? (Stressed more here)
+
+6. Sections and UI...? (Dynamic and Responsive UI)
+
+7. Access Groups and Operator Id's..?
+
+8. Types of Routing(WorkList and Work Queue)...?
+
+9. Decision Points..?
+
+10. My ECE Background and Basic Electronics...?
+
+11. Create PDF Step and BackGround Activity...?
+
+12. Child and Parent Case Releations ships...?
+
+13. ClipBoard Pages...?
+
+14. Properties and Modes and types...?
+
+15. testing unit and scenario Testing...?
+

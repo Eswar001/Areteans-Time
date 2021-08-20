@@ -1,0 +1,33 @@
+#Areteans Interview process
+
+#Every Round is Elimation Round.
+#Gmail will rule your day.
+
+-- Written Test (MCQ's)
+    1. 50 PEGA Q&a
+    2. 20 VQR Q&a
+
+--Group Discussion  (They will split into teams and send mail to us)
+
+   1. They will give one topic and 2 Min Time
+   2. We need to start discussing with our Team mates.
+
+--TR - 1 
+   1. Rounds goes depends upon Interviewer mood
+   2. PEGA + Apptitude + B.Tech backgroung + Projects
+
+--TR-2
+   1. Advanced concepts and resume content
+   2. PEGA Hands on matters
+
+--TR-3 (Manageral Round)
+   1. Project
+   2. PEGA Deep and dive in
+   3. Pinning Questions / How,Why,When,What.
+
+--HR
+  1. Casual Chat.
+  2. Why Areteans.
+  3. Cool Round.
+   
+
